@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SPCalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SPCalc_jar</output-path>
+    <root id="archive" name="SPCalc.jar">
+      <element id="module-output" name="SPCalc" />
+    </root>
+  </artifact>
+</component>
